@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning TypeScript, JavaScript and Node.js
+🌱 Atualmente estou aprendendo TypeScript, JavaScript and Node.js
 <div align="center">
   <a href="https://github.com/igorpereira28">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorpereira28&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
